@@ -1,10 +1,10 @@
 # TFM
 Trabajo fin de master. Master en bioinformática y bioestadística de la UOC.
 Autor: David García Seisdedos
-
+\n\n
 Estructura del repositorio:
-  Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usadas como ejemplo en los
-        cuadernos de Jupyter.
+\t  Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usadas como ejemplo en los
+\t\t        cuadernos de Jupyter.
   Creación de base de datos de imágenes con células: cuaderno en Jupyter que muestra como se realiza la obten-
         ción de los parches de los núcleos celulares segmentados. Así como, se muestra como se lleva a cabo el
         mezclado de dos imágenes nucleares para obtener una sola imagen con agregados nucleares.
