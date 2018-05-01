@@ -1,13 +1,11 @@
-### TFM
-Trabajo fin de master.
+# TFM
+## Trabajo fin de master.
 
-Master en bioinformática y bioestadística de la UOC.
+### Master en bioinformática y bioestadística de la UOC.
 
-2018
+### 2018
 
-Autor: David García Seisdedos
-
-Estructura del repositorio:
+### Estructura del repositorio:
 
   Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usadas como ejemplo en los
         cuadernos de Jupyter.
@@ -24,3 +22,12 @@ Estructura del repositorio:
 				
   cell_training_vgg16.py: script en python para re-entrenar una red convolucional de arquitectura VGG16. Se analizan tres clases: imágenes con un solo núcleo, imágenes con agregados nucleares o imágenes con restos 
         celulares.
+
+### Construido con:
+
+* [Python] (https://www.python.org/) - Lenguaje de programación utilzado
+* [Jupyter] (http://jupyter.org/) - Software de programción interactiva
+* [Keras] (https://keras.io/) - Conjunto de funciones y procedimientos para la implementación de redes neuronales
+
+### Autor:
+* **David García Seisdedos**
