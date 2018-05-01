@@ -1,6 +1,9 @@
 ### TFM
-Trabajo fin de master. Master en bioinformática y bioestadística de la UOC.
+Trabajo fin de master.
 
+Master en bioinformática y bioestadística de la UOC.
+
+2018
 
 Autor: David García Seisdedos
 
