@@ -7,7 +7,7 @@
 
 ### Estructura del repositorio:
 
-* Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usadas como ejemplo en los
+* Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usados como ejemplos en los
         cuadernos de Jupyter.
 				
 * Creación_de_la_base_de_datos: cuaderno en Jupyter que muestra como se realiza la obtención de los parches de los núcleos celulares segmentados. Así como, se muestra como se lleva a cabo el
