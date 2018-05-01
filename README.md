@@ -25,9 +25,9 @@
 
 ### Construido con:
 
-* [Python] (https://www.python.org/) - Lenguaje de programación utilzado
-* [Jupyter] (http://jupyter.org/) - Software de programción interactiva
-* [Keras] (https://keras.io/) - Conjunto de funciones y procedimientos para la implementación de redes neuronales
+* [Python] (https://www.python.org/) - Lenguaje de programación utilizado.
+* [Jupyter] (http://jupyter.org/) - Software de programción interactiva.
+* [Keras] (https://keras.io/) - Conjunto de funciones y procedimientos para la implementación de redes neuronales.
 
 ### Autor:
 * **David García Seisdedos**
