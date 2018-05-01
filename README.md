@@ -10,7 +10,7 @@
 * Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usadas como ejemplo en los
         cuadernos de Jupyter.
 				
-* Creación de base de datos de imágenes con células: cuaderno en Jupyter que muestra como se realiza la obtención de los parches de los núcleos celulares segmentados. Así como, se muestra como se lleva a cabo el
+* Creación_de_la_base_de_datos: cuaderno en Jupyter que muestra como se realiza la obtención de los parches de los núcleos celulares segmentados. Así como, se muestra como se lleva a cabo el
         mezclado de dos imágenes nucleares para obtener una sola imagen con agregados nucleares.
 				
 * Segmentación individualizada de agrupaciones celulares: cuaderno en Jupyter que muestra el resultado de aplicar diferentes métodos de segmentación en imágenes con agregados nucleares.
