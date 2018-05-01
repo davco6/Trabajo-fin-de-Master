@@ -13,9 +13,9 @@
 * Creación_de_la_base_de_datos: cuaderno en Jupyter que muestra como se realiza la obtención de los parches de los núcleos celulares segmentados. Así como, se muestra como se lleva a cabo el
         mezclado de dos imágenes nucleares para obtener una sola imagen con agregados nucleares.
 				
-* Segmentación individualizada de agrupaciones celulares: cuaderno en Jupyter que muestra el resultado de aplicar diferentes métodos de segmentación en imágenes con agregados nucleares.
+* Segmentación_de_agrupaciones_nucleares: cuaderno en Jupyter que muestra el resultado de aplicar diferentes métodos de segmentación en imágenes con agregados nucleares.
 				
-* Segmentación de células en preparaciones microscópicas: cuaderno en Jupyter que muestra el resultado de aplicar diferentes métodos de segmentación de núcleos celulares en imágenes de microscopía.
+* Segmentacion_de_nucleos: cuaderno en Jupyter que muestra el resultado de aplicar diferentes métodos de segmentación de núcleos celulares en imágenes de microscopía.
 				
 * Synthetic_DB_v3.py: script en python por el que se obtienen imágenes sintéticas de núcleos celulares a partir
         de imágenes nucleares en bruto. 
