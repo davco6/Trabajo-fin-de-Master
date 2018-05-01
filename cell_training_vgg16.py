@@ -136,7 +136,7 @@ def train(train_data_dir, validation_data_dir, model_path):
         layer.trainable = True
 
     # Compilamos el modelo con una menor velocidad de aprendizaje
-    model.compile(optimizer=optimizers.SGD(lr=1e-4, momentum=0.9),
+    model.compile(optimizer=SGD(lr=1e-4, momentum=0.9),
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
 
