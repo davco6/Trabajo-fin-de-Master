@@ -1,5 +1,5 @@
 # TFM
-## Trabajo fin de master.
+## Trabajo fin de master. David García Seisdedos.
 
 ### Master en bioinformática y bioestadística de la UOC.
 
