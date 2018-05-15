@@ -22,6 +22,8 @@
 				
 * cell_training_vgg16.py: script en python para re-entrenar una red convolucional de arquitectura VGG16. Se analizan tres clases: imágenes con un solo núcleo, imágenes con agregados nucleares o imágenes con restos 
         celulares.
+	
+* SegCNN-v3.ipynb: cuaderno en Jupyter que muestra el proceso de segmentación y clasificación de núcleos celulares que realiza el software SegNu.py.
 
 ### Construido con:
 
