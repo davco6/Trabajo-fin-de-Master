@@ -25,6 +25,8 @@
 	
 * SegCNN-v3.ipynb: cuaderno en Jupyter que muestra el proceso de segmentación y clasificación de núcleos celulares que realiza el software SegNu.py.
 
+* SegNu: Software escrito en python que segmenta núcleos celulares en imágenes de microscopía con un solo canal o tres canales (siempre que los núcleos estén marcados en azul). El software utiliza redes neuronales convolucionales para ayudar en la segmentación de agrupaciones nucleares. La segmentación de agregados nucleares puede realizarse por tres métodos: método de watershed, método de agrupación aglomerativa o método mixto gaussiano. Para que el software pueda funcionar es neceario la utilización del fichero de pesos, pero debido a su tamaño (aprox. 100 MBytes) no es posible subirlo al repositorio de GitHub.
+
 ### Construido con:
 
 * [Python] (https://www.python.org/) - Lenguaje de programación utilizado.
