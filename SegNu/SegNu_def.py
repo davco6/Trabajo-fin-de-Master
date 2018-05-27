@@ -320,7 +320,7 @@ def run_clustering_seg(unicell_regions,
 
 def initial_segmentation(image,
                          PATCH_RATIO):
-	"""
+    """
     Initialization of the image segmentation.
  
     :param image: A numpy matrix. Original image.
