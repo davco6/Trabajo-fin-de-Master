@@ -5,6 +5,9 @@
 
 ### 2018
 
+### Director del trabajo fin de master:
+### Edwin Santiago Alférez Baquero
+
 ### Estructura del repositorio:
 
 * Data: contiene ejemplos de imágenes de microscopía y otras imágenes que serán usados como ejemplos en los
