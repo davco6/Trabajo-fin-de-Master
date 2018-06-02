@@ -5,8 +5,7 @@
 
 ### 2018
 
-### Director del trabajo fin de master:
-### Edwin Santiago Alférez Baquero
+### Director: Edwin Santiago Alférez Baquero
 
 ### Estructura del repositorio:
 
