@@ -23,7 +23,7 @@
 	
 * SegCNN-v3.ipynb: notebook in Jupyter that shows the segmentation and classification process done by software SegNu.py.
 
-* SegNu: Software write in Python which apply a cell nuclei segmentation in microscopy images. SegNu uses CNN for the cell classification. The segmentation of nuclear aggregates could be done by: watershed method or by clustering method (agglomerative or Gaussian mixture).
+* SegNu: Software write in Python which apply a cell nuclei segmentation in microscopy images. SegNu uses CNN for the cell classification. The segmentation of nuclear aggregates could be done by watershed method or by clustering method (agglomerative or Gaussian mixture).
 
 ### Programming tools used:
 
